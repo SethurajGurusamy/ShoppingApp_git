@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ShoppingApp_vs/1.0.0": {
+        "runtime": {
+          "ShoppingApp_vs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingApp_vs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
