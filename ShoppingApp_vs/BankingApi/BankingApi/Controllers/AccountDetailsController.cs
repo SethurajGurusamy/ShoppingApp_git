@@ -20,6 +20,7 @@ namespace BankingApi.Controllers
         //    _context = context;
         //}
 
+
         // GET: api/AccountDetails
         [HttpGet]
         public async Task<ActionResult<IEnumerable<AccountDetail>>> GetAccountDetails()
